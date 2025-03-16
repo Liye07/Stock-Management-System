@@ -143,6 +143,7 @@ def DisplayStockList():
 def Menu():
     opt = 0
     while opt != 4:
+        print()
         print("-" * 50)
         print("Menu:")
         print("1. Add Stock Code")

@@ -25,7 +25,7 @@ The program ensures data validation, preventing invalid entries such as exceedin
 3. Use the menu to add stock codes, assign stock items, and view the stock list.  
 
 ## Project File  
-Click [here](./stock_management.py) to access the project file.  
+Click [here](https://github.com/Liye07/Stock-Management-System/commit/5353dc082e43cc476da5648115b8bfda85f2e2c8) to access the project file.  
 
 ## Contributors  
 👤 **Liyema Booi**  

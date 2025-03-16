@@ -29,4 +29,4 @@ Click [here](https://github.com/Liye07/Stock-Management-System/commit/5353dc082e
 
 ## Contributors  
 👤 **Liyema Booi**  
-👤 **Ambesiwe Majavu**  
+👤 [**Ambesiwe Majavu**](https://github.com/AmbeMajavu)  

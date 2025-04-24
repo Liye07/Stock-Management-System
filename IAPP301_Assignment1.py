@@ -20,14 +20,14 @@ def AddStockCode():
 
             if len(stock_code_list) < 50:
                 stock_code_list.append(stock_c)
-                print("Stock code added.")
+                print("Stock code " + stock_c + " added.")
                 print("")
             else:
                 print("The number of stock codes added to system must not exceed 50!")
                 break
 
             while True:
-                stock_p = input("Enter stock price: ")
+                stock_p = input("Enter stock price (in Rands) for " + stock_c + " : R ")
                 try:
                     stock_p = float(stock_p)
 
@@ -143,7 +143,6 @@ def DisplayStockList():
 def Menu():
     opt = 0
     while opt != 4:
-        print()
         print("-" * 50)
         print("Menu:")
         print("1. Add Stock Code")

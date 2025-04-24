@@ -12,12 +12,12 @@ The program ensures data validation, preventing invalid entries such as exceedin
 
 You can check out a quick preview of how the Stock Management System works by clicking the link below:
 
-[**Watch the System in Action**](https://github.com/Liye07/Stock-Management-System/commit/8d7ceda67e5a88ef7f70efeb29e5a89aeac0390b)
+[**Watch the System in Action**](https://rebrand.ly/stock-management-system)
 
 ### Or see a preview below:
 
 <div>
-    <a href="https://github.com/Liye07/Stock-Management-System/commit/8d7ceda67e5a88ef7f70efeb29e5a89aeac0390b">
+    <a href="https://rebrand.ly/stock-management-system">
       <img style="max-width:300px;" src="https://github.com/Liye07/Stock-Management-System/blob/main/StockManagementSystemPreview.gif">
     </a>
 </div>

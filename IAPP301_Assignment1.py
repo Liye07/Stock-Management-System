@@ -129,6 +129,7 @@ def DisplayStockList():
     if len(stock_count_list) != len(stock_code_list):
         print("To display stock list, please provide the number of stock item for every existing stock code.")
     else:
+        print()
         print("-" * 50)
         print("Stock Code | In stock | Price      | Stock Value")
         print("-" * 50)
@@ -136,8 +137,11 @@ def DisplayStockList():
             total_stock_value = price * num_of_items
             print(f"{code:<10} | {num_of_items:<8.0f} | R {price:<8.2f} | R {total_stock_value:<10.2f}")
             total += total_stock_value
+        print()    
         print("-" * 50)
         print("Total: ", "R", str(float(total)))
+        print()
+        print()
 
 
 def Menu():

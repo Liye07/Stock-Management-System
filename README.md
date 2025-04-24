@@ -8,6 +8,21 @@ This is a **Stock Management System** built using **Python** as part of a univer
 
 The program ensures data validation, preventing invalid entries such as exceeding stock limits or incorrect price values.  
 
+## Project Demo
+
+You can check out a quick preview of how the Stock Management System works by clicking the link below:
+
+[**Watch the System in Action**](https://github.com/Liye07/Stock-Management-System/commit/8d7ceda67e5a88ef7f70efeb29e5a89aeac0390b)
+
+### Or see a preview below:
+
+<div>
+    <a href="https://github.com/Liye07/Stock-Management-System/commit/8d7ceda67e5a88ef7f70efeb29e5a89aeac0390b">
+      <img style="max-width:300px;" src="https://github.com/Liye07/Stock-Management-System/assets/61091558/0013f934-87e3-4728-8743-20a4c7204e29">
+    </a>
+</div>
+
+
 ## Features  
 ✔️ Add and store stocks with a maximum limit.  
 ✔️ Assign a stock price with validation to ensure correct input.  

@@ -12,7 +12,7 @@ The program ensures data validation, preventing invalid entries such as exceedin
 
 You can check out a quick preview of how the Stock Management System works by clicking the link below:
 
-[**Watch the System in Action**](https://rebrand.ly/stock-management-system)
+[**Click here to access the system**](https://rebrand.ly/stock-management-system)
 
 ### Or see a preview below:
 

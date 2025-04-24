@@ -18,7 +18,7 @@ You can check out a quick preview of how the Stock Management System works by cl
 
 <div>
     <a href="https://github.com/Liye07/Stock-Management-System/commit/8d7ceda67e5a88ef7f70efeb29e5a89aeac0390b">
-      <img style="max-width:300px;" src="https://github.com/Liye07/Stock-Management-System/assets/61091558/0013f934-87e3-4728-8743-20a4c7204e29">
+      <img style="max-width:300px;" src="https://github.com/Liye07/Stock-Management-System/blob/main/StockManagementSystemPreview.gif">
     </a>
 </div>
 
